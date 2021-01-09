@@ -1,0 +1,14 @@
+{
+  "name": "F45 Target Selection",
+  "description": "Allows you to select targets by pressing on them in the TSD",
+  "dll file": "F45TargetSelection.dll",
+  "last edit": 637456532747595235,
+  "preview image": "preview.png",
+  "tagline": "Slew? More like ew",
+  "version": "1.0.0",
+  "source": "",
+  "is public": "True",
+  "unlisted": "False",
+  "web preview image": "web_preview.png",
+  "dependencies": []
+}
